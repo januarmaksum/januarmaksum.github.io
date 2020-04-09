@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 Sitemap: https://januarmaksum.com/sitemap.xml
 Host: https://januarmaksum.com
